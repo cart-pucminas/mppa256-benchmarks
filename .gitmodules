@@ -1,0 +1,4 @@
+[submodule "contrib/mppa256-perf"]
+	path = contrib/mppa256-perf
+	url = https://github.com/cart-pucminas/mppa256-perf.git
+	branch = master
